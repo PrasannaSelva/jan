@@ -12,7 +12,7 @@ describe('Google Search', function(){
       browser.sleep(3000);
     if(elem=browser.element(by.className('cfxYMc JfZTW c4Djg MUxGbd v0nnCb')))
     {
-    elem.ignore;
+    
   
        }
     if(rse=browser.element(by.className('LC20lb DKV0Md')))
